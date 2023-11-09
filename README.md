@@ -1,0 +1,14 @@
+# Hugo Boss web scraped data 
+
+## About the website
+
+[Hugo Boss](https://www.hugoboss.com/) is a globally recognized fashion and lifestyle brand founded in 1924 in Metzingen, Germany. The companys core business model is based on selling high-quality fashion, accessories, and fragrances for men and women. As of now, their product range is classified into two main lines - BOSS, which represents contemporary and modern style, and HUGO, renowned for its progressive and urban attitude. Hugo Boss is publicly listed on the Frankfurt Stock Exchange under the ticker symbol [BOSS](https://www.bloomberg.com/quote/BOSS:GR), and it has been publicly traded since 1985. The companys market capitalization reached an impressive level of 250 million euros at the time of its IPO. For further details, visit the companys [Wikipedia page](https://en.wikipedia.org/wiki/Hugo_Boss).
+
+One of the fierce competitors of [Hugo Boss](https://www.hugoboss.com/) in the high-end fashion market is [Armani](https://www.armani.com/us/armanicom). Armani operates in a similar fashion to Hugo Boss, offering luxury fashion, accessories, and fragrances. Its business model heavily involves marketing their products as the epitome of Italian elegance and style, which distinguishes it from its counterparts. Another key competitor is [Ralph Lauren](https://www.ralphlauren.com/), an American brand that embodies classic style and supreme quality. Like its competitors, Ralph Laurens business model lies in providing a broad range of products for men, women, and children, along with home and fragrance collections. For further information, check out their [Armani Wikipedia page](https://en.wikipedia.org/wiki/Armani) or [Ralph Lauren Wikipedia page](https://en.wikipedia.org/wiki/Ralph_Lauren_Corporation), as well as their [Armani Bloomberg page](https://www.bloomberg.com/profile/company/ARMANI:IM) or [Ralph Lauren Bloomberg page](https://www.bloomberg.com/profile/company/RL:US).
+
+Web scraping Hugo Boss website can yield significant insights into the companys pricing strategy, product assortments, and discount schedules. Using factual data, investors, competitors, and fashion merchandisers can understand market trends and customer preferences. Data analysts can extract information related to the average price of the product, the number of products in each category or the frequency, and magnitude of discounts offered. Such insights can be crucial for identifying pricing anomalies, understanding customer response to price changes, and formulating competitive pricing strategies. Overall, web scraping offers a valuable tool to keep a pulse on Hugo Bosss evolving business strategy and market position.
+
+
+## Link to **dataset**
+
+[Hugo Boss dataset](https://www.databoutique.com/buy-data-list-subset/Hugo%20Boss%20web%20scraped%20data/r/recBrdxXN1JTTZjzc)
